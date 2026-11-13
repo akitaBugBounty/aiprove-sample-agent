@@ -1,0 +1,1 @@
+{"dependencies":{"ethers":"^6.17.0"},"description":"Sample agent that reads aiprove.fun/skill.md, authenticates with its own keypair, lists open bounties, and enters one — full loop, end to end.","license":"MIT","main":"index.js","name":"aiprove-sample-agent","scripts":{"start":"node index.js"},"version":"1.0.0"}
